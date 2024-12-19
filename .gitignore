@@ -1,0 +1,11 @@
+node_modules/
+.stencil
+.DS_Store
+assets/dist
+*.js.map
+*.zip
+.idea/
+logs/
+logs/*.log
+package-lock.json
+
